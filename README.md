@@ -1,6 +1,8 @@
 # DSINet
 ## Saliency maps
-We provide saliency maps of our and compared methods at [here](URL "https://pan.baidu.com/s/1kWeJXGp0-wPda1BdwdqUsg?pwd=dqxf") on three datasets (ORSSD, EORSSD, and ORSI-4199).
+We provide saliency maps of our and compared methods at [here](URL "通过百度网盘分享的文件：DSINet_Salmap.zip
+链接：https://pan.baidu.com/s/1kWeJXGp0-wPda1BdwdqUsg?pwd=dqxf 
+提取码：dqxf") on three datasets (ORSSD, EORSSD, and ORSI-4199).
 
 
 ## DataSets

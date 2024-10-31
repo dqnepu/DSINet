@@ -1,7 +1,8 @@
 # DSINet
 ## Saliency maps
 We provide saliency maps of our and compared methods at [here](https://pan.baidu.com/s/1kWeJXGp0-wPda1BdwdqUsg?pwd=dqxf) on three datasets (ORSSD, EORSSD, and ORSI-4199).
-
+##Training
+Download pth at [here](https://pan.baidu.com/s/12DmEYIIGFHghSZJ82yur6w?pwd=dqxf), and put it in "./"
 ## DataSets
 ORSSD download at [here](https://pan.baidu.com/s/1k44UlTLCW17AS0VhPyP7JA)<br>
 EORSSD download at [here](https://github.com/rmcong/EORSSD-dataset)<br>
